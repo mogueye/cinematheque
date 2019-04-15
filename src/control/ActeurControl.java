@@ -14,7 +14,7 @@ public class ActeurControl {
    /** @param acteur
     * @pdOid bddb169f-4449-4084-95cd-0ca29fd31772 */
    public static void afficher(Acteur acteur) {
-      // TODO: implement
+      System.out.println("afficher lacteur");
    }
    
    /** @param acteur
